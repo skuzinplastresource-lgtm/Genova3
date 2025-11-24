@@ -11,7 +11,7 @@
 <header>
 <h1>Что особенного и почему мы?</h1>
 <nav>
-<a href="index.html">Главная</a>
+<a href="index.html">Что особенного и почему мы?</a>
 <a href="assortiment.html">Ассортимент</a>
 <a href="testy.html">Тесты и испытания</a>
 <a href="contacts.html">Контакты / Заказ образцов</a>
